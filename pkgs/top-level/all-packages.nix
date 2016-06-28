@@ -13555,6 +13555,8 @@ in
 
   mopidy-musicbox-webclient = callPackage ../applications/audio/mopidy-musicbox-webclient { };
 
+  mopidy-scrobbler = callPackage ../applications/audio/mopidy-scrobbler { };
+
   mozplugger = callPackage ../applications/networking/browsers/mozilla-plugins/mozplugger {};
 
   mozjpeg = callPackage ../applications/graphics/mozjpeg { };
