@@ -9,7 +9,7 @@ pythonPackages.buildPythonApplication rec {
     owner = "mopidy";
     repo = "mopidy-scrobbler";
     rev = "v${version}";
-    sha256 = "1429yvfkkq38wl9chqrp81vmi6x2hfr2q02cc7vgryx90c5irhbj";
+    sha256 = "0p4gm5ciqnqz4swnks7zg3p91mjycl7hgqd3by5308lqg32pfwbg";
   };
 
   propagatedBuildInputs = [ mopidy ];
