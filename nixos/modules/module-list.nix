@@ -76,6 +76,7 @@
   ./programs/screen.nix
   ./programs/shadow.nix
   ./programs/shell.nix
+  ./programs/spacefm.nix
   ./programs/ssh.nix
   ./programs/ssmtp.nix
   ./programs/tmux.nix
@@ -164,6 +165,7 @@
   ./services/desktops/profile-sync-daemon.nix
   ./services/desktops/telepathy.nix
   ./services/development/hoogle.nix
+  ./services/editors/emacs.nix
   ./services/games/factorio.nix
   ./services/games/ghost-one.nix
   ./services/games/minecraft-server.nix
@@ -366,6 +368,7 @@
   ./services/networking/ntopng.nix
   ./services/networking/ntpd.nix
   ./services/networking/nylon.nix
+  ./services/networking/offlineimap.nix
   ./services/networking/oidentd.nix
   ./services/networking/openfire.nix
   ./services/networking/openntpd.nix
